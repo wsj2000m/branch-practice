@@ -1,3 +1,3 @@
 # BRANCH PRACTICE
 
-## iNDEX
+## INDEX
